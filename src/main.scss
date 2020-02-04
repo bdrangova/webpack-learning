@@ -1,0 +1,9 @@
+$background: teal;
+$text-color: white;
+
+body {
+  background: url(images/background.jpg) no-repeat;
+  background-color: $background;
+  background-size: cover;
+  color: $text-color;
+}
